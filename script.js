@@ -21,9 +21,9 @@ async function getWeatherData() {
         document.getElementById('temperature').textContent = `${Math.round(data.main.temp)}°C`;
         document.getElementById('description').textContent = data.weather[0].description;
         document.getElementById('humidity').textContent = `${data.main.humidity}%`;
-        document.getElementById('wind').textContent = `${data.wind.speed} Km`;
+        document.getElementById('wind').textContent = `${data.wind.speed} Km/H`;
         document.getElementById('pressure').textContent = `${data.main.pressure} hPa`;
-        document.getElementById('visibility').textContent = `${Math.round(data.visibility / 1000)} Km/H`;
+        document.getElementById('visibility').textContent = `${Math.round(data.visibility / 1000)} Km`;
 
         const condition = data.weather[0].main.toLowerCase();
         const iconPath = getWeatherIcon(condition);
