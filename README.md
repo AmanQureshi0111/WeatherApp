@@ -41,18 +41,23 @@ It provides users with detailed weather insights for any city they search.
    ```bash
    git clone https://github.com/AmanQureshi0111/WeatherApp.git
 
-📁 Project Structure
-/weather-app
+## 📁 Project Structure
+weather-app
 ├── assets
-|    ├── animations
-|    └── icons
+│ ├── animations
+│ └── icons
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-📜 License
-This project is made for learning and academic purpose.
 
-🙌 Acknowledgements
-OpenWeatherMap for their free weather API.
-Inspired by clean UI principles and modern web development practices.
+---
+
+## 📜 License
+This project is made **for learning and academic purposes only**.  
+
+---
+
+## 🙌 Acknowledgements
+- [OpenWeatherMap](https://openweathermap.org/) for their free weather API  
+- Inspired by **clean UI principles** and **modern web development practices**  
