@@ -1,11 +1,15 @@
 🌤️ Weather App
+
 This project is a Weather App built using HTML, CSS, and JavaScript, which fetches real-time weather data from the OpenWeatherMap API. It provides users with detailed weather insights for any city they search.
 
 📸 Screenshots
+
 <img width="561" height="756" alt="image" src="https://github.com/user-attachments/assets/d3d2c00a-d8bc-45fb-a9fc-012f28cd4b48" />
+
 <img width="575" height="764" alt="image" src="https://github.com/user-attachments/assets/22287295-0bcc-4505-8100-45574beedfb1" />
 
 🚀 Features
+
 Real-time weather data fetching using OpenWeatherMap API
 Displays:
 City and country name
