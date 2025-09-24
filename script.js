@@ -18,3 +18,4 @@ async function getWeather() {
     document.getElementById("weather-result").innerHTML = `<p>${error.message}</p>`;
   }
 }
+  
