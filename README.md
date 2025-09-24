@@ -43,12 +43,19 @@ It provides users with detailed weather insights for any city they search.
 
 ## 📁 Project Structure
 weather-app
+
 ├── assets
+
 │ ├── animations
+
 │ └── icons
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ---
