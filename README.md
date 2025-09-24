@@ -39,7 +39,7 @@ It provides users with detailed weather insights for any city they search.
 ## 🔧 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevForgeIndia/weather-app.git
+   git clone https://github.com/AmanQureshi0111/WeatherApp.git
 
 📁 Project Structure
 /weather-app
