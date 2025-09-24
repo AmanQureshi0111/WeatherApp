@@ -42,14 +42,16 @@ It provides users with detailed weather insights for any city they search.
    git clone https://github.com/AmanQureshi0111/WeatherApp.git
 
 ## 📁 Project Structure
+```text
 WeatherApp
 ├── assets
-│ ├── animations
-│ └── icons
+│   ├── animations
+│   └── icons
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
 
 ---
 
